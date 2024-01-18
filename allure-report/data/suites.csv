@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 19 01:47:54 ALMT 2024","Fri Jan 19 01:47:59 ALMT 2024","4864","All Test Suite","E:\SQA\IntelliJ Projects\AutomationTestingOrangeToolz\src\test\java\testcases","testcases.TestContactUsPage","testcases.TestContactUsPage","testContactForm","Test contact page form","Allure Description Test product page form which includes firstname, lastname, email, message, privacy policy and submit button"
